@@ -144,7 +144,7 @@
     "nodemailer": "^6.9.15",
     "nostr-tools": "^2.10.4",
     "nx": "19.7.2",
-    "openai": "^4.47.1",
+    "openai": "^4.91.1",
     "polotno": "^2.10.5",
     "posthog-js": "^1.178.0",
     "react": "18.3.1",
